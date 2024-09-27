@@ -1,0 +1,83 @@
+2024-09-23 21:05:23,091 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.1.2:8080 
+========================================================================
+
+2024-09-23 21:05:23,091 - INFO - [33mPress CTRL+C to quit[0m 
+========================================================================
+
+2024-09-23 21:05:26,967 - ERROR - Ignoring exception in on_ready 
+========================================================================
+Traceback (most recent call last):
+  File "C:\Users\legen\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\discord\client.py", line 441, in _run_event
+    await coro(*args, **kwargs)
+          ^^^^^^^^^^^^^^^^^^^^^
+TypeError: MyBotClient.on_ready() missing 1 required positional argument: 'self'
+2024-09-23 21:11:55,207 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.1.2:8080 
+========================================================================
+
+2024-09-23 21:11:55,207 - INFO - [33mPress CTRL+C to quit[0m 
+========================================================================
+
+2024-09-23 21:11:59,808 - ERROR - Ignoring exception in on_ready 
+========================================================================
+Traceback (most recent call last):
+  File "discord\client.py", line 441, in _run_event
+TypeError: MyBotClient.on_ready() missing 1 required positional argument: 'self'
+2024-09-24 08:37:53,160 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.1.2:8080 
+========================================================================
+
+2024-09-24 08:37:53,163 - INFO - [33mPress CTRL+C to quit[0m 
+========================================================================
+
+2024-09-24 08:37:57,278 - ERROR - Ignoring exception in on_ready 
+========================================================================
+Traceback (most recent call last):
+  File "discord\client.py", line 441, in _run_event
+TypeError: MyBotClient.on_ready() missing 1 required positional argument: 'self'
+2024-09-24 08:50:52,467 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.1.2:8080 
+========================================================================
+
+2024-09-24 08:50:52,467 - INFO - [33mPress CTRL+C to quit[0m 
+========================================================================
+
+2024-09-24 08:50:56,090 - ERROR - Ignoring exception in on_ready 
+========================================================================
+Traceback (most recent call last):
+  File "C:\Users\legen\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\discord\client.py", line 441, in _run_event
+    await coro(*args, **kwargs)
+          ^^^^^^^^^^^^^^^^^^^^^
+TypeError: MyBotClient.on_ready() missing 1 required positional argument: 'self'
+2024-09-24 08:51:04,455 - ERROR - Ignoring exception in on_message 
+========================================================================
+Traceback (most recent call last):
+  File "C:\Users\legen\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\discord\client.py", line 441, in _run_event
+    await coro(*args, **kwargs)
+          ^^^^^^^^^^^^^^^^^^^^^
+TypeError: MyBotClient.on_message() missing 1 required positional argument: 'message'
+2024-09-24 08:51:47,779 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.1.2:8080 
+========================================================================
+
+2024-09-24 08:51:47,779 - INFO - [33mPress CTRL+C to quit[0m 
+========================================================================
+
+2024-09-24 08:51:51,326 - ERROR - Ignoring exception in on_ready 
+========================================================================
+Traceback (most recent call last):
+  File "C:\Users\legen\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\discord\client.py", line 441, in _run_event
+    await coro(*args, **kwargs)
+          ^^^^^^^^^^^^^^^^^^^^^
+TypeError: MyBotClient.on_ready() missing 1 required positional argument: 'self'

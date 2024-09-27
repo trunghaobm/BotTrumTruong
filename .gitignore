@@ -1,0 +1,9 @@
+dist/*
+.env
+.vscode/*
+.cache/*
+.local/*
+.pythonlibs/*
+build/*
+venv/*
+__pycache__/*
